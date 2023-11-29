@@ -1,0 +1,43 @@
+#main {
+    background-color: #EEEEEE;
+    margin: 30px 0;
+    font-family: sans-serif;
+    font-weight: 300;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+#title {
+    padding-top: 10px;
+    font-size: larger;
+}
+
+#img-div  {
+    background-color: #FFFFFF;
+    padding: 25px;
+    max-width: 100%;
+    height: auto;
+}
+
+#tribute-info {
+    padding-top: 20px;
+    line-height: 150%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#tribute-link {
+    color: crimson;
+    text-decoration: none;
+}
+
+.earlyYears {
+    border: 1px solid black;
+}
+
+footer {
+    padding-bottom: 30px;
+}
+
